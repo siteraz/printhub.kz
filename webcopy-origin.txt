@@ -1,0 +1,192 @@
+Uri: http://www.paketi.kz/
+File Name: C:\Downloaded Web Sites\www.paketi.kz\index.htm
+Content Type: text/html
+
+Uri: http://www.paketi.kz/img/1.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/1.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/img/10.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\10.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/11.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\11.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/12.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\12.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/13.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\13.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/14.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\14.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/15.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\15.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/16.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\16.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/17.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\17.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/18.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\18.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/19.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\19.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/2.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/2.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\2.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/img/20.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\20.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/21.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\21.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/22.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\22.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/23.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\23.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/24.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\24.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/25.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\25.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/26.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\26.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/27.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\27.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/28.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\28.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/3.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/3.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\3.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/img/4.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/5.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/6.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\6.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/7.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\7.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/8.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\8.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/9.jpeg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\9.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.paketi.kz/img/bi_instagram.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\bi_instagram.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/img/footer.png
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\footer.png
+Content Type: image/png
+
+Uri: http://www.paketi.kz/img/home.png
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\home.png
+Content Type: image/png
+
+Uri: http://www.paketi.kz/img/inst-1.png
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\inst-1.png
+Content Type: image/png
+
+Uri: http://www.paketi.kz/img/inst-2.png
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\inst-2.png
+Content Type: image/png
+
+Uri: http://www.paketi.kz/img/inst-3.png
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\inst-3.png
+Content Type: image/png
+
+Uri: http://www.paketi.kz/img/insta.png
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\insta.png
+Content Type: image/png
+
+Uri: http://www.paketi.kz/img/logo.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/img/Vector.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\Vector.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/img/wp.svg
+File Name: C:\Downloaded Web Sites\www.paketi.kz\img\wp.svg
+Content Type: image/svg+xml
+
+Uri: http://www.paketi.kz/paket.mp4
+File Name: C:\Downloaded Web Sites\www.paketi.kz\paket.mp4
+Content Type: video/mp4
+
+Uri: http://www.paketi.kz/style.css
+File Name: C:\Downloaded Web Sites\www.paketi.kz\style.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.paketi.kz\npm\swiper@10\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.paketi.kz\npm\swiper@10\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.3.3
+File Name: C:\Downloaded Web Sites\www.paketi.kz\3.3.3
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11290272047
+File Name: C:\Downloaded Web Sites\www.paketi.kz\gtag\js
+Content Type: application/javascript
+
